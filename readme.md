@@ -21,15 +21,6 @@ Passionate about **Quality**, **Security**, and **Performance** in software deve
 <img src="https://custom-icon-badges.herokuapp.com/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
 
-## ⚙️ DevOps & Tools
-
-<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea" alt="IntelliJ IDEA">
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
-<img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows" alt="Windows">
-
 ## 🌐 Connect with Me
 
 Discord: zzfxnn
