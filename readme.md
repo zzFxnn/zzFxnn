@@ -1,6 +1,5 @@
 <div align="left">
-
-# Hi, I'm zzFxnn! 👋
+👋 # Hi, I'm zzFxnn!
 
 I'm an advocate for excellence in software development, with a focus on **Quality**, **Security**, and **Performance**.
 
@@ -17,5 +16,4 @@ I'm an advocate for excellence in software development, with a focus on **Qualit
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
 <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="react">
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
-
 </div>
