@@ -4,7 +4,7 @@
 
 I'm an advocate for excellence in software development, with a focus on **Quality**, **Security**, and **Performance**.
 
-## 🔧 Technologies & Frameworks
+## 🔧 I work with the frameworks below
 
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp" alt="C#">
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
