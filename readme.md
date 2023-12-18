@@ -1,6 +1,6 @@
 <div align="left">
   
-# 👋 Hi, I'm zzFxnn!
+# 👋 Hey, I'm zzFxnn!
 
 I'm an advocate for excellence in software development, with a focus on **Quality**, **Security**, and **Performance**.
 
