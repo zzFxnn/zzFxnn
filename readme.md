@@ -25,4 +25,5 @@ I'm an advocate for excellence in software development, with a focus on **Qualit
 <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea" alt="IntelliJ IDEA">
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
+<img src="https://img.shields.io/badge/HeidiSQL-%234e5e7a?style=for-the-badge&logo=heidisql&logoColor=black" alt="heidisql">
 </div>
