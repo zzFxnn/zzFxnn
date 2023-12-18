@@ -4,7 +4,7 @@
 
 I'm an advocate for excellence in software development, with a focus on **Quality**, **Security**, and **Performance**.
 
-## 🔧 Frameworks that I can work with:
+## 🔧 - Frameworks that I can work with:
 
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&amp;logo=c%23" alt="C#">
 <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&amp;logo=c%2B%2B" alt="C++">
@@ -21,7 +21,7 @@ I'm an advocate for excellence in software development, with a focus on **Qualit
 <img src="https://img.shields.io/badge/ejs-black?style=for-the-badge&logo=ejs" alt="ejs">
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="python">
 
-## ⚙️ Programs that i work with:
+## ⚙️ - Programs that i work with:
 <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea" alt="IntelliJ IDEA">
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
