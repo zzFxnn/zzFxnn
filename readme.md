@@ -6,8 +6,8 @@ I'm an advocate for excellence in software development, with a focus on **Qualit
 
 ## 🔧 Frameworks that I can work with:
 
-<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp" alt="C#">
-<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c++" alt="C++">
+<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&amp;logo=c-sharp" alt="C#">
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&amp;logo=c%2B%2B" alt="C++">
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3">
