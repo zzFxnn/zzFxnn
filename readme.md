@@ -14,7 +14,7 @@ I'm an advocate for excellence in software development, with a focus on **Qualit
 <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java" alt="java">
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3">
-<img src="https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=scss&logoColor=pink" alt="scss">
+<img src="https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=scss3&logoColor=pink" alt="scss">
 <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
 <img src="https://img.shields.io/badge/discord.js-black?style=for-the-badge&logo=discord" alt="discord.js">
 <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express" alt="express.js">
