@@ -28,7 +28,7 @@ I'm an advocate for excellence in software development, with a focus on **Qualit
 
 ## ⚙️ - Programs that i work with:
 <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="Visual Studio Code">
-<img src="https://img.shields.io/badge/visual%20studio-black?style=for-the-badge&logo=visual-studio&logoColor=pink" alt="Visual Studio">
+<img src="https://img.shields.io/badge/visual%20studio-black?style=for-the-badge&logo=visual-studio&logoColor=purple" alt="Visual Studio">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea" alt="IntelliJ IDEA">
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
 </div>
