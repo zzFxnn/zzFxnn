@@ -26,6 +26,7 @@ I'm an advocate for excellence in software development, with a focus on **Qualit
 <img src="https://img.shields.io/badge/ejs-black?style=for-the-badge&logo=ejs&logoColor=yellow" alt="ejs">
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="python">
 <img src="https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss" alt="tailwindcss">
+<img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb" alt="mongodb">
 
 ## ⚙️ - Programs that i work with:
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="Visual Studio Code">
