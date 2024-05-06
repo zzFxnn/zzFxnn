@@ -9,6 +9,9 @@ I'm an advocate for excellence in software development, with a focus on **Qualit
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&amp;logo=c%23" alt="C#">
 <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&amp;logo=c%2B%2B" alt="C++">
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
+<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="javascript">
+<img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" alt="typescript">
+<img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java" alt="java">
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3">
 <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
