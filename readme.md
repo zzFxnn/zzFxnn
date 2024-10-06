@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzfxnn&label=Profile%20views&color=0e75b6&style=flat" alt="zzfxnn" /> </p>
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **react, vue, svelte, typescript**
+- 💬 Ask me about **React, Vue, Svelte, TypeScript**
 
 - 📫 How to reach me **me@zzfxnn.wtf**
 
